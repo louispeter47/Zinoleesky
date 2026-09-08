@@ -1,0 +1,6 @@
+{
+  "name": "Zinoleesky's Quest",
+  "description": "An Afrobeats rhythmic adventure platformer inspired by Jungle Adventures, featuring Zinoleesky traversing mythical realms in search of his musical destiny.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
